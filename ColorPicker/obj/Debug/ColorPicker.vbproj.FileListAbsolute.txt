@@ -1,0 +1,12 @@
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\bin\Debug\ColorPicker.xml
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\obj\Debug\ColorPicker.vbprojAssemblyReference.cache
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\obj\Debug\ColorPicker.frm_scan.resources
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Resources.resources
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\obj\Debug\ColorPicker.vbproj.GenerateResource.cache
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\obj\Debug\ColorPicker.vbproj.CoreCompileInputs.cache
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\obj\Debug\ColorPicker.xml
+D:\Project\과거 프로젝트 깃업로드\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
